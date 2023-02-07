@@ -1,6 +1,6 @@
 {
- "name": "api-dylux",
-  "version": "1.2.8",
+ "name": "apiCyex",
+  "version": "1.3.0",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -26,13 +26,13 @@
     "yt-search": "^2.10.3"
   },
   "keywords": [
-    "fg-dylux",
-    "fg-api"
+    "cx-Cyex",
+    "cx-api"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FG98F"
+    "url": "https://github.com/CyexSynMD"
   },
-  "author": "FG98",
+  "author": "AngelDark",
   "license": "MIT"
 }
