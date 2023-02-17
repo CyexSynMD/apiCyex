@@ -1404,7 +1404,7 @@ exports.wallpaperhd = (chara) => {
             //GET SCRAPPER DATA
             axios({
                 method: 'post',
-                url : `${BASE_URL}/api/ajaxSearch`,
+                url : `${BASE_URL}/id/api/ajaxSearch`,
                 data : `k_exp=${token.k_exp}&k_token=${token.k_token}&q=${url}`
             }).then((response)=>{
                 let $ = cheerio.load(response.data.data), download = []
